@@ -1,0 +1,6 @@
+[submodule "embedr"]
+	path = embedr
+	url = git://github.com/tomkr/embedr.git
+[submodule "hawk"]
+	path = hawk
+	url = git://github.com/klokantech/hawk.git
